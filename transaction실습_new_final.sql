@@ -47,3 +47,5 @@ commit
 select * from simple;
 
 set IMPLICIT_TRANSACTIONS OFF -- autocommit 설정.. 원상복귀
+
+-- test 
